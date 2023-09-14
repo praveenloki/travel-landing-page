@@ -1,0 +1,270 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+body {}
+
+.container {
+    height: 100vh;
+    background-image: url(bg.png.png);
+    background-size: cover;
+    background-position: center;
+}
+
+.live {
+    position: absolute;
+    top: 50%;
+    left: 10px;
+    transform: translate(0, -50%);
+
+}
+
+.header {
+    font-size: 30px;
+    color: blue;
+}
+
+.tagline {
+    font-size: 40px;
+    color: white;
+}
+
+.find {
+    color: white;
+    background-color: blue;
+    display: inline-block;
+    width: 100px;
+    padding: 12px;
+    margin-top: 8px;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.list2 {
+    background-color: red;
+    border-radius: 4px;
+    padding: 4px 12px;
+
+}
+
+ul {
+    display: flex;
+    width: 70vw;
+    justify-content: space-evenly;
+}
+
+.bonvoyage {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 24px;
+
+}
+
+.list {
+    font-size: 24px;
+    list-style: none;
+}
+
+.head {
+    font-size: 24px;
+    text-align: center;
+    padding: 14px;
+    color: blue;
+}
+
+.offer {
+    font-weight: 3000%;
+    text-align: center;
+
+}
+
+.cards{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 56px 0;
+}
+
+.card{
+    border: 1px solid black;
+    height: 300px;
+    width: 20vw;
+    border-radius:20px;
+    background-color: white;
+}
+
+.sat1{
+    padding: 20px 0 0 0;
+    text-align: center;
+}
+
+.sat2{
+    text-align: center;
+    width: 80%;
+    margin: auto;
+    padding: 12px 0;
+}
+
+.container2{
+    position: relative;
+
+}
+
+.red{
+    border-top-right-radius: 40%;
+    width: 100px;
+    height: 150px;
+    display: inline-block;
+    background-color:blue;
+    margin-bottom:-150px;
+    margin-left: 65vw;
+}
+.blue{
+    width: 100px;
+    height: 150px;
+    display: inline-block;
+    background-color:red; 
+    border-bottom-left-radius: 40%;
+    margin-bottom: -400px;
+    margin-left: 25vw;
+}
+.container3{
+    height: 150vh;
+}
+.head2{
+    display: flex;
+    
+    color: blue;
+    justify-content: center;
+    padding: 14px;
+}
+.desitnation{
+    display: flex;
+    justify-content: center;
+}
+.card5{
+    position: relative;
+}
+.trips{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 24px;
+    padding-top: 100px;
+    box-shadow: 20px;
+
+
+}
+.trip1{
+    text-align: center;
+    display: flex;
+    
+    
+}
+.trip2{
+    display: flex;
+}
+.container4{
+    height: 100vh;
+}
+.easy{
+    padding-left: 40px;
+}
+.book{
+    padding: 12px;
+    padding: 24px;
+}
+.choose h3{
+
+    padding-left: 60px;
+    margin-top: -50px;
+}
+.Lorem{
+    padding-left: 60px;
+    
+}
+.make{
+    padding-right: 12px;
+    padding-top: 12px;
+}
+.reach{
+    padding-top: 12px;
+}
+.mp{
+    padding-left: 60px;
+}
+.ra{
+    padding-left: 60px;
+}
+.img{
+    display:flex;
+    padding-left: 800px;
+    margin-top:-450px;
+    width: 581.21630859375px;
+height: 566.8251953125px;
+top: 2797px;
+left: 795.3809814453125px;
+border: 1.330121397972107px;
+
+
+}
+.container5{
+    height: 40vh;
+}
+.w{
+  text-align: center;
+  padding-right: 200px;
+  color: brown;
+}
+.us{
+    text-align: center;
+    padding-left: 30px; 
+    margin-top: -35px;
+
+}
+p{
+    text-align: center;
+    font-family: Poppins;
+font-size: 24px;
+font-weight: 400;
+line-height: 43px;
+letter-spacing: 0em;
+text-align: center;
+}
+.container6{
+    height:60vh;
+}
+.hotels {
+    display: flex;
+    justify-content: space-evenly;
+    border: white;
+    border-radius: 14px;
+    box-shadow: 20px;
+}
+.hand{
+    text-align: center;
+    padding: 60px;
+}
+.world{
+    text-align: center;
+    padding: 60px;
+}
+.best{
+    text-align: center;
+    padding: 60px;
+}
+.hph{
+    text-align: center;
+}
+.container7{
+    height: 70vh;
+}
+.bs{
+    padding-left: 200px;
+}
+.container8{
+    height: 70vh;
+
+}
+.company{
+    padding-left: 150px;
+}
